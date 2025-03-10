@@ -1,29 +1,25 @@
 `timescale 1ns/1ps
 module test_bench;
-
-    // Signals
     logic clock;
     logic reset;
 
     // Instantiate the processor
-    Top_module uut (
+    Top_module uut(
         .clk(clock),
         .reset(reset)
     );
 
-    // Clock generation
     initial begin
-        clock = 1;
-        forever #5 clock = ~clock; // Toggle clock every 5ns
+        clock = 0;
+        forever #5 clock = ~clock; // 10ns clock period
     end
 
+    // Test sequence
     initial begin
-        reset = 1;
-        #10 reset = 0;  // De-assert reset after 10ns
-        #200;
-        
-        $finish; // End simulation
+        reset = 1; // Assert reset
+        #20;       // Hold reset for 20ns
+        reset = 0; // Deassert reset
+        // Add more test cases here
     end
-
-
+    
 endmodule
