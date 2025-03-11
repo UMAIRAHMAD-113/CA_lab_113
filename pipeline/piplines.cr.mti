@@ -1,0 +1,120 @@
+{C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/immediate_gen.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/immediate_gen.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module immediate_gen
+
+Top level modules:
+	immediate_gen
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/ALU.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/ALU.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/data_memory.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/data_memory.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_B.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_B.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_B
+
+Top level modules:
+	mux_B
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_A.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_A.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bmux_A
+
+Top level modules:
+	bmux_A
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/inst_mem.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/inst_mem.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc_mux.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc_mux.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc_mux
+
+Top level modules:
+	pc_mux
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/branch_condition.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/branch_condition.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module branch_condition
+
+Top level modules:
+	branch_condition
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/reg_file.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/reg_file.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_A.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_A.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_A
+
+Top level modules:
+	mux_A
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/datamem_mux.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/datamem_mux.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_memory_mux
+
+Top level modules:
+	data_memory_mux
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/controller.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/controller.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_B.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_B.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bmux_B
+
+Top level modules:
+	bmux_B
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/p_reg_1.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/p_reg_1.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module preg_1
+
+Top level modules:
+	preg_1
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module_test.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module_test.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Top_module_test
+
+Top level modules:
+	Top_module_test
+
+} {} {}} {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/test_bench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/test_bench.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}}

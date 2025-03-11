@@ -1,0 +1,502 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/HP/Desktop/New folder
+T_opt
+!s110 1741663347
+VP9C]5AjIdcMhOGn]@<N]X1
+04 10 4 work test_bench fast 0
+=6-f43909e176f7-67cfac73-19c-12d0
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+T_opt1
+!s110 1741658079
+VmneZ:G^<HzN6eYTlA]Bg52
+04 10 4 work Top_module fast 0
+=1-f43909e176f7-67cf97df-232-2744
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+valu
+Z6 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z7 !s110 1741663333
+!i10b 1
+!s100 PXS@9gVgc8mjFDMW=zTcO3
+I7:bP?FhW]c=h@d@ZkiCQX0
+S1
+Z8 dC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline
+w1741455402
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/ALU.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/ALU.sv
+!i122 79
+L0 2 22
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1741663333.000000
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/ALU.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/ALU.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vbmux_A
+R6
+R7
+!i10b 1
+!s100 [@0iZX`1nf2oR2?=dF4Vm2
+I>Gi>O_9AlTg4ZN:J<=oH=1
+S1
+R8
+w1741660007
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_A.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_A.sv
+!i122 80
+L0 2 16
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_A.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_A.sv|
+!i113 0
+R12
+R4
+nbmux_@a
+vbmux_B
+R6
+R7
+!i10b 1
+!s100 ]=]O@:h];4Y0<JZgRJ:ol2
+I_FWjc^>M[JU7zcGI:N73;1
+S1
+R8
+w1741659949
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_B.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_B.sv
+!i122 81
+Z13 L0 1 16
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_B.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/bmux_B.sv|
+!i113 0
+R12
+R4
+nbmux_@b
+vbranch_condition
+R6
+R7
+!i10b 1
+!s100 ^EzKce[IP]?AZSUKE35QN3
+I?z5fHVcLBB1A_[6Qe8:=>0
+S1
+R8
+Z14 w1741514428
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/branch_condition.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/branch_condition.sv
+!i122 82
+L0 1 21
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/branch_condition.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/branch_condition.sv|
+!i113 0
+R12
+R4
+vcontroller
+R6
+R7
+!i10b 1
+!s100 Y;RK>W1Vd_hc@WLH0Ki821
+Iz2hLPhb7z^Z=WnQ8:GARk2
+S1
+R8
+w1741660691
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/controller.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/controller.sv
+!i122 83
+L0 1 191
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/controller.sv|
+!i113 0
+R12
+R4
+vdata_memory
+R6
+Z15 !s110 1741663334
+!i10b 1
+!s100 :h@:;EljZk1fCGX:lMPif3
+Ie1D]lBRG2KdFaJF_[6g>Q3
+S1
+R8
+w1741623102
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/data_memory.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/data_memory.sv
+!i122 84
+L0 1 33
+R9
+R10
+r1
+!s85 0
+31
+Z16 !s108 1741663334.000000
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/data_memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/data_memory.sv|
+!i113 0
+R12
+R4
+vdata_memory_mux
+R6
+R15
+!i10b 1
+!s100 knJo[1P]n]ZmLJc;Kb::T2
+I;LcWK@N^neMaaW4RoX;G82
+S1
+R8
+w1741449594
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/datamem_mux.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/datamem_mux.sv
+!i122 85
+L0 1 17
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/datamem_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/datamem_mux.sv|
+!i113 0
+R12
+R4
+vimmediate_gen
+R6
+R15
+!i10b 1
+!s100 SFdNm8Eh?@mUY]HNoC?bA0
+I`lDFHC<:^B@;GiZ_kNB1=1
+S1
+R8
+R14
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/immediate_gen.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/immediate_gen.sv
+!i122 86
+Z17 L0 1 37
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/immediate_gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/immediate_gen.sv|
+!i113 0
+R12
+R4
+vinst_mem
+R6
+R15
+!i10b 1
+!s100 ciM?=cfAVZG4nbB>d0SF03
+IUD?`BPk5^5dV@Db3Ba[`43
+S1
+R8
+w1741658197
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/inst_mem.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/inst_mem.sv
+!i122 87
+Z18 L0 2 24
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/inst_mem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/inst_mem.sv|
+!i113 0
+R12
+R4
+vmux_A
+R6
+R15
+!i10b 1
+!s100 8Oo1d]YXRE^GQM6:6iiK60
+IPH5n9f3C10Tl5KUK8]4F:3
+S1
+R8
+w1741660579
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_A.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_A.sv
+!i122 88
+R13
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_A.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_A.sv|
+!i113 0
+R12
+R4
+nmux_@a
+vmux_B
+R6
+R15
+!i10b 1
+!s100 z<>dMk_6a_]VXg:[dF6i11
+I0D5<Ifj4=DJ?d>@VCT:ij0
+S1
+R8
+w1741068732
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_B.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_B.sv
+!i122 89
+L0 1 15
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_B.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/mux_B.sv|
+!i113 0
+R12
+R4
+nmux_@b
+vpc
+R6
+Z19 !s110 1741663335
+!i10b 1
+!s100 2N4k^d8MjJlJzOa8:0fgc1
+InC4hCU<8hjET<;I4hn2D;2
+S1
+R8
+w1739806521
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc.sv
+!i122 91
+L0 2 17
+R9
+R10
+r1
+!s85 0
+31
+Z20 !s108 1741663335.000000
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc.sv|
+!i113 0
+R12
+R4
+vpc_mux
+R6
+R19
+!i10b 1
+!s100 E`MiY:RogBUdMeZ<V2Mbn1
+Id408z3iPz0Ng8N;1fgbWV0
+S1
+R8
+w1741065590
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc_mux.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc_mux.sv
+!i122 92
+L0 3 17
+R9
+R10
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/pc_mux.sv|
+!i113 0
+R12
+R4
+vpreg_1
+R6
+R19
+!i10b 1
+!s100 j0A00L7>k]BBTi8hNlB372
+I?L;1K<DON?VO>hO0i[AL[2
+S1
+R8
+w1741655512
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/p_reg_1.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/p_reg_1.sv
+!i122 90
+L0 1 18
+R9
+R10
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/p_reg_1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/p_reg_1.sv|
+!i113 0
+R12
+R4
+vpreg_2
+R6
+R19
+!i10b 1
+!s100 PJl4M:=9PUEWUanZDfnUm3
+I7Adl^:<AUT^]NQ@PBZElo0
+S1
+R8
+w1741663318
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/preg_2.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/preg_2.sv
+!i122 93
+R17
+R9
+R10
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/preg_2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/preg_2.sv|
+!i113 0
+R12
+R4
+vreg_file
+R6
+Z21 !s110 1741663336
+!i10b 1
+!s100 [F>^RRoXH3k`EPn7@O@Q[1
+IB@2Gz2gGMa`^E_2Smz_5M0
+S1
+R8
+w1741514243
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/reg_file.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/reg_file.sv
+!i122 94
+L0 2 25
+R9
+R10
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/reg_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/reg_file.sv|
+!i113 0
+R12
+R4
+vtest_bench
+R6
+R21
+!i10b 1
+!s100 >zOYgaVoXk5IgJYao5^022
+II>CgcXgnf[kELbWZn8^Wk2
+S1
+R8
+w1741518408
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/test_bench.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/test_bench.sv
+!i122 95
+R18
+R9
+R10
+r1
+!s85 0
+31
+Z22 !s108 1741663336.000000
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/test_bench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/test_bench.sv|
+!i113 0
+R12
+R4
+vTop_module
+R6
+R21
+!i10b 1
+!s100 [O:6V;b2VldXEU15`V0UN2
+I7D^><c]f;m5B<R88L4HiZ3
+S1
+R8
+w1741663187
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module.sv
+!i122 96
+L0 1 185
+R9
+R10
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module.sv|
+!i113 0
+R12
+R4
+n@top_module
+vTop_module_test
+R6
+R21
+!i10b 1
+!s100 z>6BdWOJeFWNjabgENJ4W2
+I[6CU:^OJ8Gn]DaoDhcJHB3
+S1
+R8
+w1741521184
+8C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module_test.sv
+FC:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module_test.sv
+!i122 97
+L0 3 87
+R9
+R10
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module_test.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/HP/Documents/6th semester/Computer_Architecture_Lab/pipeline/Top_module_test.sv|
+!i113 0
+R12
+R4
+n@top_module_test
